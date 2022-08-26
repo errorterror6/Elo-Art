@@ -33,5 +33,4 @@ and the expected results of their newly learned skill
   <img src="./viper_results.png" width="500" title="hover text">
 </p>
 
-A quick question is:
-  Is it possible through riot's valorant API to gain access to the current location region (e.g. rafters on icebox)? I couldn't seem to find it yet it was available on overwolf.
+Thanks so much for coming. Hope the rest of your day goes smoothly.
